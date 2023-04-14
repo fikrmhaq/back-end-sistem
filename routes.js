@@ -13,7 +13,7 @@ const routes = [
         method: 'GET',
         path: '/',
         handler: (request, h) => {
-            return 'Homepage : version 1.0';
+            return 'Homepage : version 1.0 edited from Localhost';
         },
     },
     {
